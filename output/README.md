@@ -1,2 +1,2 @@
 # AI-Admission-Project
-Record the start point for my AI class
+Please view [here](MNIST Recognition.ipynb) for the presentation/result/code.
