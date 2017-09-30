@@ -1,2 +1,2 @@
 # AI-Admission-Project
-Record the start point for my AI class
+Please view *_MNIST Recognition.ipynb_* for coding part.
