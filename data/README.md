@@ -1,2 +1,2 @@
 # AI-Admission-Project
-Record the start point for my AI class
+Empty! Called dataset MNIST given by Tensorflow.
