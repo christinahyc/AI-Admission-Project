@@ -1,6 +1,8 @@
 # AI-Admission-Project
 Hi, there! Welcome to my github page. This repo is for AI Admission Project, a.k.a a record of start point for my AI classes.
 
+If you want to view my .ipynb code, [here](doc/MNIST%20Recognition.ipynb) it is.
+
 ## Project Name
 MNIST Recognition
 
