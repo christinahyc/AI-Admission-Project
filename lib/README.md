@@ -1,2 +1,2 @@
 # AI-Admission-Project
-Record the start point for my AI class
+Even the author don't know what's this for.
